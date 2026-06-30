@@ -1,36 +1,15 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+Peer-reviewed articles
+Tirado Castro, A., & Caihuelas Navajas, B. (2025). "The gender gap in policy responsiveness in Spain." European Journal of Politics and Gender. https://doi.org/10.1332/25151088Y2024D000000067
+FernÃ¡ndez, J., Jaime-Castillo, A. M., & Caihuelas Navajas, B. (2025). "The Socio-structural Basis of the Long-term Decline in Traditional Leftâ€“right Class Voting in Affluent Democracies, 1968â€“2018." Comparative Politics. https://doi.org/10.5129/001041525X17368768326041
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+Working papers
+Legitimacy Under Pressure: Dynamics of Trust in the European Union Amid Polycrisis. 
+With Alejandro Tirado Castro and Juan A. Mayoral. (Revise & resubmit, European Union Politics.)
+Democracy's Unsolved Dilemma: Education and Increasing Turnout Inequality.
+Trust, Mistrust, and Distrust in the European Union: Conceptual Distinctions and Democratic Implications. 
+With Alejandro Tirado Castro and Juan A. Mayoral.
+Can Algorithms Govern? Public Trust and the Limits of GenAI in Public Policy Design. 
+With Alejandro Tirado Castro and Juan A. Mayoral.
+Governing or Delegating Democracy? Public Preferences for AI Governance and Democratic Authority in Europe
+With Alejandro Tirado Castro
+Compared to Whom? Gender, Generation, and the Reference Groups of Young Men's Grievance. With Rebeca GonzÃ¡lez AntuÃ±a and LÃ­dia NÃºÃ±ez AlaÃ±Ã³n.

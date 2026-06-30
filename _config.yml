@@ -35,10 +35,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # PASTE your Google Scholar profile URL here
+  googlescholar    : "https://scholar.google.es/citations?user=N2rRHNsAAAAJ&hl=es"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # PASTE your ORCID URL here (e.g. https://orcid.org/0000-0000-0000-0000)
+  orcid            : "https://orcid.org/0009-0005-3020-8106"
   semantic         : "https://www.semanticscholar.org/author/Berta-Caihuelas-Navajas/2339601510"
   ssrn             : # URL
   pubmed           : #
@@ -57,7 +57,7 @@ author:
  
   # Social media
   artstation       : # Username
-  bluesky          : #
+  bluesky          : "https://bsky.app/profile/bcaihuelas.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : " https://www.linkedin.com/in/berta-caihuelas-navajas-375421114/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

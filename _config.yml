@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Berta Caihuelas Navajas"
-  pronouns         : "she/her"
-  bio              : "Postdoctoral researcher in political science at UC3M. I study political behavior, public opinion, and inequality in European democracies."
+  pronouns         : #"she/her"
+  bio              : # "Postdoctoral researcher in political science at UC3M. I study political behavior, public opinion, and inequality in European democracies."
   location         : "Madrid, Spain"
   employer         : "Universidad Carlos III de Madrid"
-  uri              : "https://researchportal.uc3m.es/display/inv47629"
+  uri              : #"https://researchportal.uc3m.es/display/inv47629"
   email            : "bcaihuel@clio.uc3m.es"
  
   # Academic websites
